@@ -1,4 +1,5 @@
 /* some powers of 2 are printed */
+/*11¹ø¹®Á¦*/
 
 #include <stdio.h>
 
